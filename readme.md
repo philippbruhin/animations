@@ -74,7 +74,6 @@ Base Animations includes styles for fading in content.
 | Class | Purpose | Example | Outcome |
 | ------------ | ------- | ------- | ------- |
 | `.fade-in` | Apply a `.fade-in` | `<div class="fade-in">Element fades in</div>` | Applies a fade in to a `div` element |
-| `.fade-in-up` | Apply a `.fade-in-up` | `<div class="fade-in-up">Element fades in from bottom to top</div>` | Applies a `.fade-in-top` to a `div` element |
 | `.fade-in-up` | Apply a `.fade-in-up` | `<div class="fade-in-up">Element fades in from bottom to top</div>` | Applies a fade in from bottom to top for a `div` element |
 | `.fade-in-down` | Apply a `.fade-in-down` | `<div class="fade-in-down">Element fades in from top to bottom</div>` | Applies a fade in from top to bottom for a `div` element |
 | `.fade-in-left` | Apply a `.fade-in-left` | `<div class="fade-in-left">Element fades in from right to left</div>` | Applies a fade in from right to left for a `div` element |
